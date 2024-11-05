@@ -1,4 +1,4 @@
-# How-To-Learn-MQL5-Programming
+# How To Learn MQL5 Programming
 
 Learning MQL5 programming is a great skill for traders who want to make the most of MetaTrader 5. MQL5, or MetaQuotes Language 5, is made for building trading robots, indicators, scripts, and libraries that fit personal trading strategies. By mastering MQL5, you can automate trading, create custom indicators, and test strategies, all of which improve trading efficiency and give you an edge. 
 
